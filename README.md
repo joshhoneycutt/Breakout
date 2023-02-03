@@ -1,3 +1,2 @@
 # Breakout
-
-Hello World
+ A breakout clone game built using custom pixel art.
